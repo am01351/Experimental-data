@@ -1,2 +1,2 @@
 # Experimental-data
-The data covers autonomous driving scenarios.
+The data covers autonomous driving scenarios. The basic classification logic is based on different scenarios, such as cut-in/cut-out, deceleration, U-turns, and sharp turns. Each scenario includes autonomous driving runtime verification data, output data (Taradol), and simulation data. All data is grouped by data format, including JSON, YAML, and Claude. Uncategorized data is marked in the root file.
